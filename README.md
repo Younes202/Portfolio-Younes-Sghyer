@@ -1,73 +1,70 @@
-# Portfolio-Younes-Sghyer
-# Younes Sghyer Profile
+# Getting Started with Create React App
 
-![Profile Image](images/profile.jpg)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Introduction
+## Available Scripts
 
-This is the HTML code for Younes Sghyer's profile webpage. It provides information about Younes and his skills, education, professional experience, certificates, awards, and portfolio. The webpage also includes links to his social profiles.
+In the project directory, you can run:
 
-## Table of Contents
+### `npm start`
 
-- [Introduction](#introduction)
-- [Skills](#skills)
-- [Education](#education)
-- [Professional Experience](#professional-experience)
-- [Certificates](#certificates)
-- [Awards](#awards)
-- [Portfolio](#portfolio)
-- [Contact](#contact)
-- [Footer](#footer)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Skills
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Front-end Development: HTML, CSS, JavaScript
-- Back-end Development: PHP, Python, Java
-- Frameworks: Django, Laravel, Jakarta EE, Bootstrap, Vue.js
-- Blockchain & Smart Contract: Solidity, Ethereum Network
-- Database Management: PostgreSQL, MySQL, SQLite
-- Containerization: Docker
-- Modeling: UML (Unified Modeling Language), Merise
-- Version Control: Github
-- Virtualized Development Environments: Vagrant
+### `npm test`
 
-## Education
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- University of Zurich International Summer Schools, Switzerland
-  - Deep Dive into Blockchain – Linking Economics, Technology, and Law (July 2023)
-  
-- Sup Mti Private Institution for Computer Engineering
-  - Bachelor's in Information Systems Engineering (2020 - 2023)
+### `npm run build`
 
-## Professional Experience
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- Trainee Web Application Developer at Tradivtel (Apr. 2023 - Jul. 2023)
-  - Developed web applications using Django, PostgreSQL, Ajax, jQuery, JavaScript, Bootstrap, HTML, and CSS.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Freelance Web Developer (Apr. 2023 - Jul. 2023)
-  - Collaborated on the development of a School Management Web Application using PHP, jQuery, HTML, CSS, and the Laravel framework.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Certificates
+### `npm run eject`
 
-- Jquery (29 May 2022)
-- Java EE (25 September 2022)
-- Mega Hackathon Panafrican (27 November 2022)
-- Microcontrollers (21 December 2022)
-- Devops (07 June 2023)
-- React.js (23 June 2023)
-- Bnb (21 July 2023)
-- Cardano (21 July 2023)
-- Deep Dive into Blockchain (21 July 2023)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Awards
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- 1st prize for innovation at Sup MTI for Trotti Life Project Idea (29 May 2022)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## Portfolio
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- [Parcking System Project Reservation](#)
-- [Assigning projects From admins to technicians](#)
+## Learn More
 
-## Footer
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Designed by Younes Sghyer
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
